@@ -1,7 +1,7 @@
 ## AULA 4 - RESUMO
 
 # Resumão da Thaís
-![resumo](imgs/resumoThais.png)
+![resumo](resumoThais.png)
 
 # Controllers
 
